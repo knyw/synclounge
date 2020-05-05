@@ -3,15 +3,15 @@
     "webapp_port": "8088",
     "serverroot": "/server",
     "server_port": "8089",
-    "accessUrl": "http://plextogether.wukenny.com/",
+    "accessUrl": "http://plexparty.wukenny.com",
     "autoJoin": true,
-    "autoJoinServer": "http://plextogether.wukenny.com/server",
+    "autoJoinServer": "http://plexparty.wukenny.com/server",
     "autoJoinRoom": "",
     "autoJoinPassword": "",
     "customServer": {
         "name": "MSKN Server",
         "location": "Taiwan",
-        "url": "http://plextogether.wukenny.com/server",
-        "image": "http://plextogether.wukenny.com/resource/taiwan-logo.png"
+        "url": "http://plexparty.wukenny.com/server",
+        "image": "http://plexparty.wukenny.com/resource/taiwan-logo.png"
     }
 }
